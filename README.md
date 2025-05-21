@@ -1,2 +1,2 @@
 # git-demo
-Git demo just for training
+Git demo just for training Rona
